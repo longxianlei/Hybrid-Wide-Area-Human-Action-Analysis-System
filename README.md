@@ -5,3 +5,6 @@ The code includes C++ implementation of Camera data reading, galvanomirror contr
 
 
 
+The basic model can be searched online.
+You can email me to get these weights and cfgs.
+Yolov3, Yolov4, Yolov7, Yolov8, Yolo-nas-m, also with their tiny version.
